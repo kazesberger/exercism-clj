@@ -4,11 +4,11 @@ These are my solutions to the [Exercism](http://exercism.io) challenges for the 
 
 ## Solutions to Challenges
 
-Index     | Challenge                    | Solution           
-----------| -----------------------------| -------------------- 
-01        | [Hello World][1]             | [View Solution][2] 
-02        | [Armstrong Numbers][3]       | [View Solution][4] 
-03        | [Minesweeper][5]             | [View Solution][6] 
+Challenge                    | Solution           
+-----------------------------| -------------------- 
+[Hello World][1]             | [View Solution][2] 
+[Armstrong Numbers][3]       | [View Solution][4] 
+[Minesweeper][5]             | [View Solution][6] 
 
 More on the way ;-)
 
