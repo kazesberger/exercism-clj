@@ -1,0 +1,6 @@
+**/target
+**/*.iml
+**/.idea
+**/.nrepl-port
+**/.lein-failures
+**/*.bak
