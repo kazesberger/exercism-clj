@@ -11,6 +11,7 @@ Challenge                    | Solution
 [Minesweeper][5]             | [View Solution][6] 
 [Series][7]                  | [View Solution][8] 
 [collatz-conjecture][9]      | [View Solution][10] 
+[beer-song][11]              | [View Solution][12] 
 
 More on the way ;-)
 
@@ -24,3 +25,5 @@ More on the way ;-)
 [8]:https://exercism.io/my/solutions/e52611d9822f46eab9cb07f3d83aecce
 [9]:collatz-conjecture/README.md
 [10]:https://exercism.io/my/solutions/c3cf21fc37d844d1926de402d675d42d
+[11]:beer-song/README.md
+[12]:https://exercism.io/my/solutions/48eca6a0c3834be3b706295ad17f9d1c
