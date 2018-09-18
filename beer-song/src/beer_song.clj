@@ -31,3 +31,4 @@
   ([start end]
    (str/join \newline (map verse (reverse (range end (inc start)))))))
 
+(eval (read))
