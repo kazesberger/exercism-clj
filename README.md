@@ -15,7 +15,10 @@ Challenge                    | Solution
 [nucleotide-count][13]       | [View Solution][14] 
 [two-fer][15]                | [View Solution][16] 
 [hamming][17]                | [View Solution][18] 
-[hamming][19]                | [View Solution][20] 
+[phone-number][19]           | [View Solution][20] 
+[reverse-string][21]         | [View Solution][22] 
+[clock][23]                  | [View Solution][24] 
+[clock][25]                  | [View Solution][26] 
 
 More on the way ;-)
 
@@ -39,3 +42,11 @@ More on the way ;-)
 [18]:https://exercism.io/my/solutions/4d1dab3b064049e8a2eeaba0d160c63e
 [19]:phone-number/README.md
 [20]:https://exercism.io/my/solutions/00d4aea5bebd4f329834e2edbb811988
+[21]:reverse-string/README.md
+[22]:https://exercism.io/my/solutions/c2063cff947547e1affa53c87f5c4317
+[23]:clock/README.md
+[24]:https://exercism.io/my/solutions/e52683df79174ceca4d80ab8e0274dac
+[25]:bob/README.md
+[26]:https://exercism.io/my/solutions/1c90602f013247eea310eb03a2635a99
+[27]:rna-transcription/README.md
+[28]:https://exercism.io/my/solutions/238c5b8c443448cc8cf8e5418c9f3586
